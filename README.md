@@ -2,12 +2,20 @@
 
 ## Usage
 
+#### Install
+
+```
+const getName = require("simple-country-iso");
 ```
 
-getName('br') //returns "Brazil"
-getName('sr') //returns "Suriname"
+const country = getName("br");
+console.log(country)
+//returns "Brazil"
 
-
+```
+const country = getName("br");
+console.log(country)
+//returns "Brazil"
 ```
 
 Feel free to use and contribute.
