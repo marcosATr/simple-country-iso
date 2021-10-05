@@ -1,6 +1,6 @@
 {
   "name": "simple-country-iso",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "keywords": ["Country Codes","Convert Country ISO", "Simples Country ISO", "Two Letter Country Code" ],
   "author": "",
