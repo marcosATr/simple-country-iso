@@ -2,9 +2,9 @@
   "name": "simple-country-iso",
   "version": "1.1.1",
   "main": "index.js",
-  "keywords": ["Country Codes","Convert Country ISO", "Simples Country ISO", "Two Letter Country Code" ],
-  "author": "",
+  "keywords": ["Country Codes","Convert Country ISO", "Simple Country ISO", "Two Letter Country Code" ],
+  "author": "marcosATr",
   "license": "ISC",
   "description": "Simple country code converter",
-  "homepage": "https://github.com/marcosATr/simple-coutry-iso"
+  "homepage": "https://github.com/marcosATr/simple-country-iso"
 }
